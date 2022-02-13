@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test5.cpp
+F:\Lab\Lab5_assignment\Lab5\ListLinked.cpp(13): warning C5037: 'List<DataType>::List': an out-of-line definition of a member of a class template cannot have default arguments
+  show5.cpp
+  ListLinked.cpp
+F:\Lab\Lab5_assignment\Lab5\ListLinked.cpp(13): warning C5037: 'List<DataType>::List': an out-of-line definition of a member of a class template cannot have default arguments
+  Generating Code...
+ListLinked.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Lab5.vcxproj -> F:\Lab\Lab5_assignment\Debug\Lab5.exe
